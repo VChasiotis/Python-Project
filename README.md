@@ -93,7 +93,9 @@ cd "PART A"
 cd "PART B"
 
 # 3. Run the program
-python main.py
+python PartA.py
+# or 
+python PartB.py
 
 
 cd Python-Project
